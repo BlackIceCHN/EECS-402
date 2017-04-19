@@ -1,1 +1,5 @@
 EECS 402 Project 4
+
+- Develop my own doubly-linked list that is sorted
+- Create FIFO queue data structure
+- Develop event-driven simulation of a queue at a theme park ride. All design choices are up the the programmer. 
