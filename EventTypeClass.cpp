@@ -1,6 +1,5 @@
 #include "EventTypeClass.h"
 
-
 /* HEADER: Implementation of EventTypeClass. An in-depth description
 can be found in the .h file */
 
